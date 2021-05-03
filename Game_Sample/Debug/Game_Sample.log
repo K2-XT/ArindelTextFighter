@@ -1,0 +1,12 @@
+﻿  LightArmor.cpp
+  MediumArmor.cpp
+  arindel_tests.cpp
+  charcreate.cpp
+  gloabalfunctions.cpp
+c:\users\payton pehrson\desktop\game_sample\game_sample\gloabalfunctions.cpp(68): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  human.cpp
+  mainGame.cpp
+  nakedarmor.cpp
+  weaponsandarmor.cpp
+  Generating Code...
+  Game_Sample.vcxproj -> C:\Users\Payton Pehrson\Desktop\Game_Sample\Debug\Game_Sample.exe
