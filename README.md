@@ -10,4 +10,6 @@ This is a text-based arena fighter that I created as my final project in CS-1410
 
 Still, I can't let this one go. It was my first bigger project, and we worked hard on it. We had a basic understanding of inheritance and pointers when we set out to make this, but by the end we had learned tenfold. This project displays good use of Object-Oriented Programming, an understanding of C++, and the ability to buckle-down and get something done. 
 
+I really enjoyed this project.
+
 ![alt text](https://github.com/K2-XT/ArindelTextFighter/blob/main/Screenshots/arindel_screenshot3.PNG?raw=true)
